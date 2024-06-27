@@ -61,7 +61,8 @@ objectives.<br>
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=atharvahatekar&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=atharvahatekar&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=atharvahatekar&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=atharvahatekar&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
+![Snake animation](https://github.com/atharvahatekar/atharvahatekar/blob/output/github-contribution-grid-snake.svg)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=atharvahatekar&theme=radical&no-frame=true&no-bg=false&margin-w=4)
