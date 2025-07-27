@@ -3,7 +3,7 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&size=32&duration=4500&pause=1000&color=7C7BF7&center=true&vCenter=true&random=false&width=435&lines=Motivated+Data+Scientist)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&size=42&duration=3000&pause=1000&color=7C7BF7&center=False&vCenter=True&random=False&width=435&lines=Data+Scientist;AI+Engineer;Software+Developer)](https://git.io/typing-svg)
 
 # 💫 About Me:
 <b>With the perfect blend of experience in Academics📚 and Industry👨‍💻, marking a proven track record in
