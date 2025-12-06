@@ -46,7 +46,7 @@ With a perfect blend of academic excellence 📚 and industrial experience 👨�
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **Project Name 1** | A brief description of what this project does and the problem it solves. | `Python` `TensorFlow` |
-| **Project Name 2** | A brief description of what this project does and the problem it solves. | `NLP` `Spacy` |
-| **Project Name 3** | A brief description of what this project does and the problem it solves. | `SQL` `PowerBI` |
+| **Document Intelligence Hub** | Complete end to end Rag for documents. | `Python` `langchain` |
+| **AI Trip Panner** | LLM Based AI Trip Planner which Plan the complete trip based on the prompt . | `Langgraph` `OpenAI` |
+| **Product Recommandation System** | Product Recommendation System which recommend products using real-world e-commerce data. | `LLMOPs` `GROQ API` |
 ---
