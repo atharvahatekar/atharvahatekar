@@ -19,7 +19,7 @@
 
 ### 💫 About Me
 
-I am a professional with a blend of academic excellence 📚 and industrial experience 👨‍💻. I specialize in transforming raw data into actionable insights to drive business growth.
+With a perfect blend of academic excellence 📚 and industrial experience 👨‍💻. I specialize in transforming raw data into actionable insights to drive business growth.
 
 * 🔭 **I’m currently working on:** Unsupervised Anomaly Detection on Multivariate Time Series Data.
 * 💡 **My expertise:** Machine Learning, Deep Learning, and Data Analytics.
@@ -49,10 +49,4 @@ I am a professional with a blend of academic excellence 📚 and industrial expe
 | **Project Name 1** | A brief description of what this project does and the problem it solves. | `Python` `TensorFlow` |
 | **Project Name 2** | A brief description of what this project does and the problem it solves. | `NLP` `Spacy` |
 | **Project Name 3** | A brief description of what this project does and the problem it solves. | `SQL` `PowerBI` |
-
 ---
-
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
-  <b>I love connecting with different people</b>, so if you want to say <b>hi, I'll be happy to connect!</b> 😊
-</div>
-
