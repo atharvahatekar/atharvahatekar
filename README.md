@@ -67,9 +67,7 @@ I am a professional with a blend of academic excellence 📚 and industrial expe
 
 <br>
 
-<img src="https://raw.githubusercontent.com/atharvahatekar/atharvahatekar/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
-<br>
-![snake animation](https://github.com/<seu atharvahatekar>/<seu atharvahatekar>/blob/output/github-contribution-grid-snake2.svg)
+<img src="https://raw.githubusercontent.com/atharvahatekar/atharvahatekar/main/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
 
 </div>
 
@@ -93,3 +91,4 @@ I am a professional with a blend of academic excellence 📚 and industrial expe
   
   ![](https://visitcount.itsvg.in/api?id=atharvahatekar&icon=8&color=8)
 </div>
+
