@@ -10,9 +10,8 @@
 
 <div align="center">
   
-  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/atharva_hatekar) 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/atharvahatekar)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email-here@gmail.com)
+  [![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=Email&logoColor=white)](mailto:atharva_hatekar@yahoo.in)
 
 </div>
 
@@ -22,8 +21,8 @@
 
 I am a professional with a blend of academic excellence 📚 and industrial experience 👨‍💻. I specialize in transforming raw data into actionable insights to drive business growth.
 
-* 🔭 **I’m currently working on:** Advanced predictive modelling and NLP pipelines.
-* 💡 **My expertise:** Machine Learning, Natural Language Processing, Feature Engineering, and Word Embedding techniques.
+* 🔭 **I’m currently working on:** Unsupervised Anomaly Detection on Multivariate Time Series Data.
+* 💡 **My expertise:** Machine Learning, Deep Learning, and Data Analytics.
 * 🌱 **I’m currently learning:** Generative AI and MLOps.
 * 🤝 **I’m looking to collaborate on:** Open source data science projects.
 
@@ -53,42 +52,7 @@ I am a professional with a blend of academic excellence 📚 and industrial expe
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-| | |
-|:---:|:---:|
-| <img src="https://github-readme-stats.vercel.app/api?username=atharvahatekar&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="400" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharvahatekar&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="400" /> |
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=atharvahatekar&theme=tokyonight&hide_border=true" width="85%" />
-
-<br>
-
-<img src="https://raw.githubusercontent.com/atharvahatekar/atharvahatekar/main/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
-
-</div>
-
-### 🏆 Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=atharvahatekar&theme=radical&no-frame=true&no-bg=false&margin-w=4" width="1000" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" />
-  
-  <br><br>
-  
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
-  <br>
   <b>I love connecting with different people</b>, so if you want to say <b>hi, I'll be happy to connect!</b> 😊
-
-  <br><br>
-  
-  ![](https://visitcount.itsvg.in/api?id=atharvahatekar&icon=8&color=8)
 </div>
 
