@@ -34,7 +34,7 @@
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header&width=1200" width="100%" />
 </p>
 
 ## About Me
@@ -46,8 +46,9 @@ My current work focuses on **unsupervised anomaly detection for industrial multi
 I enjoy turning raw, messy data into reliable AI workflows, dashboards, APIs, and deployable ML systems.
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header&width=1200" width="100%" />
 </p>
+
 
 ## Currently Building
 
@@ -81,8 +82,9 @@ I enjoy turning raw, messy data into reliable AI workflows, dashboards, APIs, an
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header&width=1200" width="100%" />
 </p>
+
 
 ## Tech Stack
 
@@ -120,8 +122,9 @@ I enjoy turning raw, messy data into reliable AI workflows, dashboards, APIs, an
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header&width=1200" width="100%" />
 </p>
+
 
 ## Featured Projects
 
@@ -314,8 +317,9 @@ Power BI dashboard built from scraped cricket data to analyse player, team, and 
 </table>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header&width=1200" width="100%" />
 </p>
+
 
 ## GitHub Highlights
 
@@ -326,8 +330,9 @@ Power BI dashboard built from scraped cricket data to analyse player, team, and 
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header&width=1200" width="100%" />
 </p>
+
 
 ## GitHub Analytics
 
@@ -344,7 +349,7 @@ Power BI dashboard built from scraped cricket data to analyse player, team, and 
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header&width=1200" width="100%" />
 </p>
 
 ## Contribution Activity
@@ -355,10 +360,10 @@ Power BI dashboard built from scraped cricket data to analyse player, team, and 
 
 </div>
 
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header&width=1200" width="100%" />
 </p>
+
 
 ## What I Am Building Towards
 
