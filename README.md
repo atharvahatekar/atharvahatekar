@@ -2,34 +2,16 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C7BF7,100:00C9A7&height=190&section=header&text=Atharva%20Hatekar&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
-# Data Scientist | AI Engineer | GenAI & Time-Series ML
+# Data Scientist | AI Engineer
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=7C7BF7&center=true&vCenter=true&width=850&lines=Building+AI+systems+for+real-world+data+problems;Industrial+AI+%7C+Time-Series+Anomaly+Detection;GenAI+%7C+RAG+%7C+LLM+Applications;MLOps+%7C+FastAPI+%7C+MLflow+%7C+Azure+ML)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=7C7BF7&center=true&vCenter=true&width=850&lines=Building+AI+systems+for+real-world+data+problems;Industrial+AI+%7C+Time-Series+Anomaly+Detection;GenAI+%7C+RAG+%7C+LLM+Applications)](https://git.io/typing-svg)
 
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Atharva%20Hatekar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/atharvahatekar)
 [![Email](https://img.shields.io/badge/Email-atharva_hatekar%40yahoo.in-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atharva_hatekar@yahoo.in)
-[![GitHub](https://img.shields.io/badge/GitHub-atharvahatekar-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/atharvahatekar)
 
-<br><br>
-
-<table align="center">
-<tr>
-<td align="center" width="33%">
-  <h3>Industrial AI</h3>
-  <p>Time-Series ML<br>Anomaly Detection<br>Predictive Maintenance</p>
-</td>
-<td align="center" width="33%">
-  <h3>GenAI Engineering</h3>
-  <p>RAG Systems<br>LLM Applications<br>Agentic Workflows</p>
-</td>
-<td align="center" width="33%">
-  <h3>MLOps</h3>
-  <p>FastAPI<br>MLflow<br>Docker & CI/CD</p>
-</td>
-</tr>
-</table>
+<br>
 
 </div>
 
@@ -39,87 +21,8 @@
 
 ## About Me
 
-I am a **Data Scientist and AI Engineer** focused on building practical AI systems using **machine learning, time-series analytics, Generative AI, and MLOps**.
+#### Hi, I'm a **Data Scientist** with a Master's in Artificial Intelligence, specializing in LLMs and GenAI. I have hands-on experience building LLMs and SLMs from scratch, fine-tuning foundation models, and developing production-grade RAG pipelines. My expertise also includes AI guardrails, LLM observability, machine learning, time-series analysis, anomaly detection. I enjoy building reliable, scalable AI systems that bridge cutting-edge research with production-ready applications.
 
-My current work focuses on **unsupervised anomaly detection for industrial multivariate time-series data**, combining statistical monitoring methods and graph-based deep learning approaches such as **CPCA, APCA, and Graph Deviation Networks**.
-
-I enjoy turning raw, messy data into reliable AI workflows, dashboards, APIs, and deployable ML systems.
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header&width=1200" width="100%" />
-</p>
-
-
-## Currently Building
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="25%">
-  <img src="https://img.shields.io/badge/Focus-Time--Series%20ML-7C7BF7?style=for-the-badge">
-  <br><br>
-  Industrial anomaly detection on multivariate sensor data
-</td>
-<td align="center" width="25%">
-  <img src="https://img.shields.io/badge/Focus-GenAI-00C9A7?style=for-the-badge">
-  <br><br>
-  RAG applications and LLM-powered assistants
-</td>
-<td align="center" width="25%">
-  <img src="https://img.shields.io/badge/Focus-MLOps-0078D4?style=for-the-badge">
-  <br><br>
-  MLflow, FastAPI, Docker, Azure ML and CI/CD
-</td>
-<td align="center" width="25%">
-  <img src="https://img.shields.io/badge/Focus-Industrial%20AI-FFB000?style=for-the-badge">
-  <br><br>
-  Predictive maintenance and root-cause analysis
-</td>
-</tr>
-</table>
-
-</div>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header&width=1200" width="100%" />
-</p>
-
-
-## Tech Stack
-
-<div align="center">
-
-### Programming & Data
-
-<img src="https://skillicons.dev/icons?i=python,cpp,c,postgres,mysql,sqlite" />
-
-<br><br>
-
-### Machine Learning & AI
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
-
-<br><br>
-
-### Backend, MLOps & Tools
-
-<img src="https://skillicons.dev/icons?i=fastapi,docker,kubernetes,git,github,githubactions,vscode" />
-
-<br><br>
-
-### GenAI, Analytics & Visualisation
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
-![LangGraph](https://img.shields.io/badge/LangGraph-7C7BF7?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-00C9A7?style=for-the-badge)
-![FAISS](https://img.shields.io/badge/FAISS-Vector%20Search-blue?style=for-the-badge)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge)
-![Azure ML](https://img.shields.io/badge/Azure%20ML-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
-
-</div>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header&width=1200" width="100%" />
@@ -321,18 +224,6 @@ Power BI dashboard built from scraped cricket data to analyse player, team, and 
 </p>
 
 
-## GitHub Highlights
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=atharvahatekar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
-
-</div>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header&width=1200" width="100%" />
-</p>
-
 
 ## GitHub Analytics
 
@@ -364,24 +255,3 @@ Power BI dashboard built from scraped cricket data to analyse player, team, and 
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header&width=1200" width="100%" />
 </p>
 
-
-## What I Am Building Towards
-
-```text
-Data Scientist / AI Engineer
-│
-├── Industrial Machine Learning
-│   ├── Time-series anomaly detection
-│   ├── Predictive maintenance
-│   └── Root-cause analysis
-│
-├── Generative AI Engineering
-│   ├── RAG systems
-│   ├── LLM applications
-│   └── Agentic workflows
-│
-└── MLOps & Deployment
-    ├── FastAPI services
-    ├── MLflow tracking
-    ├── Dockerized workflows
-    └── CI/CD pipelines
